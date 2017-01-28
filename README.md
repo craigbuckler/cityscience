@@ -2,6 +2,9 @@
 
 By Craig Buckler
 
+**[VIEW LIVE DEMONSTRATION](https://cdn.rawgit.com/craigbuckler/cityscience/ac4d5123/index.html)**
+
+
 ## Overview
 Data from traffic surveys throughout Devon is shown on a heatmap. As well as map zooming and panning, the controls in the bottom right allow you to set:
 
